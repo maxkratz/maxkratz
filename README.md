@@ -4,8 +4,8 @@
 <hr>
 
 <a href="https://github.com/maxkratz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxkratz&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true" />
+  <img align="center" src="https://readme-stats.clckblog.space/api?username=maxkratz&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true" />
 </a>
 <a href="https://github.com/maxkratz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxkratz&layout=compact&theme=dark" />
+  <img align="center" src="https://https://readme-stats.clckblog.space/api/top-langs/?username=maxkratz&layout=compact&theme=dark" />
 </a>
